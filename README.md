@@ -6,11 +6,11 @@ A premium, user-friendly medication tracking application built with Flutter. Des
 
 ## 📸 Screenshots
 
-| Home | New Medicine | Frequency & Timings | Medicine Inventory |
+| Home (Dark Mode) | New Medicine | Frequency & Timings | Medicine Inventory |
 |------|-------------|--------------------|--------------------|
 | ![Home](https://github.com/user-attachments/assets/8878e64f-91e5-42de-97dc-6a368fca3a56) | ![New Medicine](https://github.com/user-attachments/assets/5088f628-1f0b-4d93-9e78-dbc45b2ade6a) | ![Frequency & Timings](https://github.com/user-attachments/assets/13548c5d-a5e0-4973-8c5a-b9df621cdb5f) | ![Medicine Inventory](https://github.com/user-attachments/assets/0d281087-7ef7-4c35-90d6-f5ab30717e12) |
 
-| Today's Schedule | Today's Logs | Complete Logs | Dark Mode |
+| Today's Schedule | Today's Logs | Complete Logs | Share via text |
 |-----------------|-------------|--------------|-----------|
 | ![Today's Schedule](https://github.com/user-attachments/assets/7aba8426-eded-40c9-bbbf-b2b4f0c56ae3) | ![Today's Logs](https://github.com/user-attachments/assets/84d20837-8279-45e0-a053-c398f2d82fc1) | ![Complete Logs](https://github.com/user-attachments/assets/95195d94-d8e6-4f81-8ff3-5842bd723f71) | ![Dark Mode](https://github.com/user-attachments/assets/d7d5f961-c28c-4cfb-94f8-2299ba64cf48) |
 
